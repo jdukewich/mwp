@@ -1,0 +1,11 @@
+[package]
+name = "mwp"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Utilities for solving the Multi-way Number Partitioning Problem"
+homepage = "https://github.com/jdukewich/mwp"
+repository = "https://github.com/jdukewich/mwp"
+readme = "README.md"
+
+[dependencies]
